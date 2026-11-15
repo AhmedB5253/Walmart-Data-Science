@@ -129,7 +129,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn jupyter
 jupyter notebook
 ```
 
-4. Open `Walmart_Sales_Analysis.ipynb`.
+4. Open `WalmartAssign.ipynb`.
 5. Run the notebook cells sequentially.
 
 ## Limitations
